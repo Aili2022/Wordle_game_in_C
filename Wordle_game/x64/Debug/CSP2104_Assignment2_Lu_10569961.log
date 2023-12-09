@@ -1,0 +1,4 @@
+﻿  ExtendedDictionary.cpp
+C:\Users\Ailil\Desktop\CSP2104_Assignment2_Lu_10569961.v8\CSP2104_Assignment2_Lu_10569961.v7\CSP2104_Assignment2_Lu_10569961.v4\CSP2104_Assignment2_Lu_10569961\ExtendedDictionary.cpp(31,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ailil\Desktop\CSP2104_Assignment2_Lu_10569961.v8\CSP2104_Assignment2_Lu_10569961.v7\CSP2104_Assignment2_Lu_10569961.v4\CSP2104_Assignment2_Lu_10569961\ExtendedDictionary.cpp(110,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CSP2104_Assignment2_Lu_10569961.vcxproj -> C:\Users\Ailil\Desktop\CSP2104_Assignment2_Lu_10569961.v8\CSP2104_Assignment2_Lu_10569961.v7\CSP2104_Assignment2_Lu_10569961.v4\x64\Debug\CSP2104_Assignment2_Lu_10569961.exe
